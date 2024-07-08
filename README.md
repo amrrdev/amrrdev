@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amr Mubarak</h1>
-<h3 align="center">Hi, I’m Amr Mubarak, a passionate backend engineer. I have a strong foundation in backend development</h3>
+<h3 align="center">a passionate backend engineer</h3>
+
 
 - 📫 How to reach me **amrrdev@gmail.com**
 
