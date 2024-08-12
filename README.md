@@ -29,7 +29,7 @@
 
 <h3 align="left">My Notes:</h3>
 <ul>
-  <li><a href="https://amrrdev.github.io/posts/understanding-what-happens-when-we-access-a-webpage/">Understanding What Happens When We Access a Webpage</a></li>
-  <li><a href="https://amrrdev.github.io/posts/Understanding-Processes-and-Threads/">Understanding Processes and Threads</a></li>
   <li><a href="https://amrrdev.github.io/posts/nodejs-arch/">Node.js Architecture</a></li>
+  <li><a href="https://amrrdev.github.io/posts/Understanding-Processes-and-Threads/">Understanding Processes and Threads</a></li>
+  <li><a href="https://amrrdev.github.io/posts/understanding-what-happens-when-we-access-a-webpage/">Understanding What Happens When We Access a Webpage</a></li>
 </ul>
