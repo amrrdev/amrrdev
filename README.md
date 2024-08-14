@@ -22,7 +22,7 @@
 <h3 align="left">Skills & Interests:</h3>
 <ul>
   <li>💻 I work with Node.js, TypeScript, Express, NestJS, MongoDB, PostgreSQL</li>
-  <li>🔍 Currently learning Microservices & </li>
+  <li>🔍 Currently learning Microservices & System Design</li>
   <li>📚 Improving my skills in Data Structures & Algorithms</li>
   <li>🚀 Interested in System Design & Distributed Systems</li>
 </ul>
