@@ -1,14 +1,14 @@
-# Amr Mubarak  
-**Backend Engineer | Distributed Systems Enthusiast**  
+**Amr Mubarak**
+Backend Engineer · Distributed Systems
 
-Hey there! I'm Amr, a Backend Engineer who geeks out over distributed systems and building scalable, efficient backend solutions. I design and build APIs and event-driven systems that perform reliably under pressure.  
-
-📫 **Contact:** amrrdev@gmail.com  
+amrrdev@gmail.com
 
 ---
 
-## What I'm Exploring  
+I build backend systems that don't fall apart when things get interesting. High-throughput APIs, event-driven pipelines, infrastructure that holds up under real load.
 
-I’m currently deep into *Distributed Systems: Principles and Paradigms*, studying the nuts and bolts of distributed architectures. My focus is on consensus algorithms and fault tolerance, and I’m applying these concepts to real-world projects to strengthen both theoretical understanding and practical skills.  
+I care about how data moves, where it breaks, and how to make it not break. Lately that means spending time on consensus, fault tolerance, and the tradeoffs distributed architectures force you to make.
 
-I’m halfway through *Database Internals: A Deep Dive into How Distributed Data Systems Work*. The first part on storage engines — B-Trees and Log-Structured Storage — has been eye-opening, and I’m holding off on the distributed database section until I’ve strengthened my core systems knowledge.
+I like understanding systems at the level where the interesting problems actually live. Storage engines, replication, the stuff that abstractions usually hide.
+
+I write Go and Rust. I care about correctness as much as performance. And I'm the kind of engineer who reads the source when the docs don't answer the question.
